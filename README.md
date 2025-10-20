@@ -1,26 +1,18 @@
 # Loyalty Predict
 
-Construindo uma solução de Data Science junto com a comunidade! Confira todo nosso material em [cursos.teomewhy.org](cursos.teomewhy.org).
-
-<img src="img/loyalty_predict_canva.png">
-
-Começamos ao vivo dia 29/09 às 9AM na [twitch.tv/teomewhy](https://twitch.tv/teomewhy) - [🔗 deixe na sua agenda!!](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=M2w1YnB1OTk0bTUxdHZvMnNpbmZxZTlwOGpfMjAyNTA5MjlUMTIwMDAwWiB0ZW9AdGVvbWV3aHkub3Jn&tmsrc=teo%40teomewhy.org&scp=ALL)
+Construindo uma solução de Data Science!
 
 
 # Índice
 
 - [Objetivo](#objetivo)
 - [Ações](#ações)
-- [Pré Requisitos](#pré-requisitos)
 - [Etapas](#etapas)
 - [Fonte de Dados](#fontes-de-dados)
-- [Como nos apoiar](#apoie-o-nosso-trabalho)
-- [Perguntas Frequentes](#perguntas-frequentes)
-
 
 ## Objetivo
 
-Identificar perda ou ganho de engajamento dos usuários da nossa comunidade, e como transformar os usuários em fieis.
+Identificar perda ou ganho de engajamento dos usuários da comunidade TEO ME WHY, e como transformar os usuários em fieis.
 
 ## Tipos de usuários
 
@@ -55,17 +47,6 @@ Identificar perda ou ganho de engajamento dos usuários da nossa comunidade, e c
 
 - [Sistema de Pontos](https://www.kaggle.com/datasets/teocalvo/teomewhy-loyalty-system)
 - [Plataforma de Cursos](https://www.kaggle.com/datasets/teocalvo/teomewhy-education-platform)
-
-## Apoie o nosso trabalho
-
-- 💵 Chave Pix: pix@teomewhy.org
-- 💶 LivePix: [livepix.gg/teomewhy](https://livepix.gg/teomewhy)
-- 💷 GitHub Sponsors: [github.com/sponsors/TeoMeWhy](https://github.com/sponsors/TeoMeWhy)
-- 💴 ApoiaSe: [apoia.se/teomewhy](https://apoia.se/teomewhy)
-- 🎥 Membro no YouTube: [youtube.com/@teomewhy/membership](https://youtube.com/@teomewhy/membership)
-- 🎮 Sub na Twitch: [twitch.tv/teomewhy](https://twitch.tv/teomewhy)
-- 💌 Newsletter: [teomewhy.substack.com](https://teomewhy.substack.com)
-- 📚 Lojinha na Amazon: [Clique Aqui](https://www.amazon.com.br/shop/teo.calvo?-ref_=cm_sw_r_cp_ud_aipsfshop_MS3WV3HX76NT92FNB5BC)
 
 
 
