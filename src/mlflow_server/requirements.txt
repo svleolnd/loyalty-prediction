@@ -1,6 +1,12 @@
-mlflow==2.14.2
-pyarrow==14.0.2
-pandas==2.2.2
+mlflow==2.12.1
+gunicorn
+Werkzeug==3.0.3
 numpy==1.26.4
-scikit-learn==1.5.2
-gunicorn==23.0.0
+pandas==2.2.2
+scikit-learn==1.4.2
+sqlalchemy==2.0.30
+requests
+protobuf==4.25.3
+click==8.1.7
+flask==3.0.3
+psutil
